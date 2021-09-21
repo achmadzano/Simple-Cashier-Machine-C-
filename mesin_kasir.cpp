@@ -53,7 +53,7 @@ int main() {
 
     puts("Mesin Kasir");
     puts("1. Pembayaran");
-    puts("2. Keluar"); // isi apaan dah ni
+    puts("2. Keluar");
 
     char choice;
     puts("ketik pilihan anda dibawah teks ini"); 
